@@ -6,7 +6,7 @@ Project#1
   Learned Skills --> Class inheritence, object comparision with nested sorting |
   
 Project#2
-  About--> representing fundamental of object-oriented programming |
+  About--> Game Rock-Paper-Scissor between Human and Computer- representing fundamental of object-oriented programming |
   Leanred Skills --> Polymorphism, Inheritence, Abstracttion, Encapsulation |
   
 Project#3
